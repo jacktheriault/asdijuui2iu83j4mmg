@@ -1,0 +1,11 @@
+"config"
+{
+	"bindings"
+	{
+		"MWHEELUP"		"+jump"
+		"MWHEELDOWN"		"+jump"
+		"CAPSLOCK"		"+voicerecord"
+		"MOUSE4"		"<unbound>"
+		"ALT"		"noclip"
+	}
+}
